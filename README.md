@@ -55,38 +55,6 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
 
 ---
 
-### 🚀 Open Source Contributions
-
-I regularly contribute to **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** (66k+ ⭐), implementing robust and well-tested algorithms:
-
-* **Sorting**: 
-  * [Library Sort (Gapped Insertion Sort)](https://github.com/TheAlgorithms/Java/pulls?q=is%3Apr+author%3ARosander0) — Optimized gapped insertion sort using primitive arrays ($O(n \log n)$ average time complexity).
-* **Strings**:
-  * [Longest Common Substring](https://github.com/TheAlgorithms/Java/pull/7464) — Dynamic programming implementation for finding common substrings.
-  * [Title Case Conversion](https://github.com/TheAlgorithms/Java/pull/7473) — Text formatting algorithm.
-* **Math & Number Theory**:
-  * [Sociable Numbers](https://github.com/TheAlgorithms/Java/pull/7475) & [Friendly Numbers](https://github.com/TheAlgorithms/Java/pull/7474) — Cyclic and relative divisor sum properties.
-* **Mathematical Sequences**:
-  * [Padovan Sequence](https://github.com/TheAlgorithms/Java/pull/7477), [Jacobsthal Numbers](https://github.com/TheAlgorithms/Java/pull/7479), & [Perrin Numbers](https://github.com/TheAlgorithms/Java/pull/7478) — Recurrence relation sequences.
-
----
-
-### 📂 Personal Projects
-
-#### 🍽️ [Restaurant Website (David Chu's China Bistro)](https://github.com/Rosander0/Restaurant_Website)
-* **Technologies**: HTML5, CSS3, JavaScript, AJAX
-* Built a fully responsive multi-page restaurant website modelled on a real-world client site.
-* Designed a custom responsive navigation bar with active-state page highlighting.
-* Utilized AJAX to load page content dynamically, avoiding full-page reloads and providing a seamless user experience.
-
----
-
-### 📜 Certifications
-
-* **HTML, CSS, and JavaScript for Web Developers** — Johns Hopkins University via Coursera (Sep 2025) | [Verify Certificate](https://www.coursera.org/account/accomplishments/specialization/4VZ2Z7L61B1Y)
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
