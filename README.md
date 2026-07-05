@@ -14,7 +14,7 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
 
 - 🎓 Pursuing a **B.Tech in Computer Engineering** at DJSCE (Expected 2029).
 - ⚙️ Interested in **Systems Programming**, **Artificial Intelligence**, **Robotics**, and **Data Structures**.
-- 🚀 Contributor to **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)**.
+- 🚀 Active contributor to **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)**.
 - 📬 Reach out to me at: **[vmprajapati@zohomail.in](mailto:vmprajapati@zohomail.in)**.
 
 ---
@@ -55,12 +55,23 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
 
 ---
 
-### 📂 Highlighted Projects & Contributions
+### 🚀 Open Source Contributions
 
-#### 🚀 [Library Sort Implementation](https://github.com/TheAlgorithms/Java/pulls?q=is%3Apr+author%3ARosander0) — Open Source Contribution
-* **Technologies**: Java, Data Structures & Algorithms
-* Implemented the **Library Sort** (Gapped Insertion Sort) algorithm in `TheAlgorithms/Java` (66k+ stars).
-* Replaced heavyweight `Integer[]` boxing with optimized `int[]` and `boolean[]` tracking arrays to minimize memory footprint and run binary search on sparse arrays, speeding up insertions to an expected $O(n \log n)$ time.
+I regularly contribute to **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** (66k+ ⭐), implementing robust and well-tested algorithms:
+
+* **Sorting**: 
+  * [Library Sort (Gapped Insertion Sort)](https://github.com/TheAlgorithms/Java/pulls?q=is%3Apr+author%3ARosander0) — Optimized gapped insertion sort using primitive arrays ($O(n \log n)$ average time complexity).
+* **Strings**:
+  * [Longest Common Substring](https://github.com/TheAlgorithms/Java/pull/7464) — Dynamic programming implementation for finding common substrings.
+  * [Title Case Conversion](https://github.com/TheAlgorithms/Java/pull/7473) — Text formatting algorithm.
+* **Math & Number Theory**:
+  * [Sociable Numbers](https://github.com/TheAlgorithms/Java/pull/7475) & [Friendly Numbers](https://github.com/TheAlgorithms/Java/pull/7474) — Cyclic and relative divisor sum properties.
+* **Mathematical Sequences**:
+  * [Padovan Sequence](https://github.com/TheAlgorithms/Java/pull/7477), [Jacobsthal Numbers](https://github.com/TheAlgorithms/Java/pull/7479), & [Perrin Numbers](https://github.com/TheAlgorithms/Java/pull/7478) — Recurrence relation sequences.
+
+---
+
+### 📂 Personal Projects
 
 #### 🍽️ [Restaurant Website (David Chu's China Bistro)](https://github.com/Rosander0/Restaurant_Website)
 * **Technologies**: HTML5, CSS3, JavaScript, AJAX
@@ -82,7 +93,7 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
   <a href="mailto:vmprajapati@zohomail.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-vmprajapati%40zohomail.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/vrajprajapati01" target="_blank">
+  <a href="https://linkedin.com/in/vrajprajapati01e" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vraj_Prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
