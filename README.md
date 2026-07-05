@@ -76,19 +76,6 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="left">
-  <a href="https://github.com/Rosander0">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rosander0&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=4b5563" alt="Vraj's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Rosander0">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosander0&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=4b5563" alt="Vraj's Top Languages" />
-  </a>
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
