@@ -83,7 +83,7 @@ I regularly contribute to **[TheAlgorithms/Java](https://github.com/TheAlgorithm
 
 ### 📜 Certifications
 
-* **HTML, CSS, and JavaScript for Web Developers** — Johns Hopkins University via Coursera (Sep 2025) | [Verify Certificate](https://coursera.org)
+* **HTML, CSS, and JavaScript for Web Developers** — Johns Hopkins University via Coursera (Sep 2025) | [Verify Certificate]([https://coursera.org](https://www.coursera.org/account/accomplishments/specialization/4VZ2Z7L61B1Y))
 
 ---
 
