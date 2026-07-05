@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/Rosander0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&width=450&lines=Computer+Engineering+Student;Open+Source+Contributor;Full-Stack+Web+Developer;Systems+Programming+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&width=450&lines=Computer+Engineering+Student;Open+Source+Contributor;Full-Stack+Web+Developer;Systems+Programming+Enthusiast;Java+Developer" alt="Typing SVG" />
   </a>
 </p>
 
