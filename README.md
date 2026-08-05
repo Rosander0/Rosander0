@@ -68,6 +68,11 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
 * Designed a custom responsive navigation bar with active-state page highlighting.
 * Utilized AJAX to load page content dynamically, avoiding full-page reloads and providing a seamless user experience.
 
+#### [CovScout](https://github.com/Rosander0/CovScout)
+* Built a Node.js CLI tool that analyzes Java (Maven/Gradle) repositories to identify high-value test coverage gaps by combining JaCoCo coverage data with Git churn frequency, using the formula: (1 − line coverage) × ln(1 + commit count).
+*	Implemented a full 7-stage pipeline: repo intake, build detection, JaCoCo report generation, coverage parsing, git churn analysis, gap ranking, and automatic JUnit 5 test stub generation — with graceful fallback to static heuristics when builds fail.
+*	Covered by a 68-test suite; never modifies the user's real build files — all JaCoCo injection is done on a disposable workspace copy.
+
 ---
 
 ### 🤝 Connect with Me
