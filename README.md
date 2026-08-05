@@ -57,10 +57,10 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
 
 ### 📂 Highlighted Projects & Contributions
 
-#### 🚀 [Library Sort Implementation](https://github.com/TheAlgorithms/Java/pulls?q=is%3Apr+author%3ARosander0) — Open Source Contribution
-* **Technologies**: Java, Data Structures & Algorithms
-* Implemented the **Library Sort** (Gapped Insertion Sort) algorithm in `TheAlgorithms/Java` (66k+ stars).
-* Replaced heavyweight `Integer[]` boxing with optimized `int[]` and `boolean[]` tracking arrays to minimize memory footprint and run binary search on sparse arrays, speeding up insertions to an expected $O(n \log n)$ time.
+#### 🚀 [TheAlgorthms/Java](https://github.com/Rosander0/Java-Algorithms) — Open Source Contribution
+*	Merged 10 pull requests into TheAlgorithms/Java (66k+ stars), one of the largest open-source algorithm repositories on GitHub.
+*	Implemented algorithms spanning ML, mathematics, sorting, and string processing: Naive Bayes Classifier, Linear Regression, Library Sort, Title Case conversion, Longest Common Substring, Padovan Sequence, Jacobsthal Number, Perrin Number, and Soble Number.
+*	Followed strict contribution guidelines including code style, Javadoc documentation, and JUnit test coverage for every submission.
 
 #### 🍽️ [Restaurant Website (David Chu's China Bistro)](https://github.com/Rosander0/Restaurant_Website)
 * **Technologies**: HTML5, CSS3, JavaScript, AJAX
