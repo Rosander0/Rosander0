@@ -15,7 +15,7 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
 - 🎓 Pursuing a **B.Tech in Computer Engineering** at DJSCE (Expected 2029).
 - ⚙️ Interested in **Systems Programming**, **Artificial Intelligence**, **Robotics**, and **Data Structures**.
 - 🚀 Contributor to **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)**.
-- 📬 Reach out to me at: **[vmprajapati@zohomail.in](mailto:vmprajapati@zohomail.in)**.
+- 📬 Reach out to me at: **[vrajpdev01@gmail.com](mailto:vrajpdev01@gmail.com)**.
 
 ---
 
@@ -78,8 +78,8 @@ I am a second-year **Computer Engineering** student at **Dwarkadas J. Sanghvi Co
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="mailto:vmprajapati@zohomail.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vmprajapati%40zohomail.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:vrajpdev01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-vrajpdev01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="www.linkedin.com/in/vrajprajapati01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vraj_Prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
