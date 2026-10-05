@@ -13,7 +13,7 @@
   <a href="mailto:vrajpdev01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://rosander0.github.io/Portfolio/" target="_blank">
+  <a href="https://rosander.runs-on.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-071A2B?style=for-the-badge&logo=react&logoColor=48C9D6" alt="Portfolio" />
   </a>
 </p>
